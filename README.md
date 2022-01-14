@@ -1,7 +1,7 @@
 # Self-driving-car
 ## Project Description
 - The aim of this project is to develop a self-driving car that can travel through a lane based on Deep learning approaches.
-1. Introduction to Raspberry Pi-4 (Master branch)
+1. Introduction to Raspberry Pi-4 (Buzzer branch)
     - Buzzer and Led
 3. Lane keeping of autonomous car using Deep Learning
     - Data Collection
