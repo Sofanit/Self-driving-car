@@ -1,11 +1,21 @@
 # Self-driving-car
 Raspberry pi 4
-- The aim of this project is to develop a self-driving car that can travel through a lane based on deep learning approaches.
+## Project Description
+- The aim of this project is to develop a self-driving car that can travel through a lane based on Deep learning approaches.
+1. Introduction to Raspberry Pi-4
+    - Buzzer and Led
+3. Lane keeping of autonomous car using Deep Learning
+    - Data Collection
+    - Training
+    - Testing
 
-<img src="https://github.com/Sofanit/Self-driving-car/blob/buzzer/lane_map.jpg" width="440"> </img>
+
 
 ## Data Collection 
-➢ The first step of our project is to collect data. Therefore, we drove the car through the lane and saved the collected images based on three steering angles (45,90,135).
+- The first step of our project is to collect data. Therefore, we drove the car through the lane and saved the collected images based on three steering angles (45,90,135).
+
+
+<img src="https://github.com/Sofanit/Self-driving-car/blob/main/lane_map.jpg" width="440"> </img>
 ## Data Processing
 - After the data is collected, in order to make sure that the model learns to follow the line in the lane, we preprocessed the data to have a high contrast between the lane and the rest of the image.
 
